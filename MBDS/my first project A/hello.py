@@ -3,5 +3,6 @@ def hello():
     print('how are you?')
     print('I am fine')
     print('I am fine')
+    print('I am fine')
 
 hello()
